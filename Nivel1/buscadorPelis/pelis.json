@@ -1,0 +1,62 @@
+[
+    {
+        "title": "La purga 1",
+        "rating": 5,
+        "tags": ["accion", "suspenso", "inquietante"],
+        "director": "John Cena"
+    },
+    {
+        "title": "Horizonte Oscuro",
+        "rating": 4,
+        "tags": ["ciencia ficcion", "thriller", "misterio"],
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "El Rescate Final",
+        "rating": 3,
+        "tags": ["accion", "drama", "aventura"],
+        "director": "Kathryn Bigelow"
+    },
+    {
+        "title": "Sombras del Pasado",
+        "rating": 4.5,
+        "tags": ["suspenso", "drama", "emocionante"],
+        "director": "Denis Villeneuve"
+    },
+    {
+        "title": "Guerra Infinita",
+        "rating": 4.8,
+        "tags": ["accion", "superheroes", "epica"],
+        "director": "Anthony Russo"
+    },
+    {
+        "title": "La Maldición Oculta",
+        "rating": 3.5,
+        "tags": ["terror", "suspenso", "sobrenatural"],
+        "director": "James Wan"
+    },
+    {
+        "title": "El Legado de Fuego",
+        "rating": 4.2,
+        "tags": ["fantasia", "accion", "emocionante"],
+        "director": "Peter Jackson"
+    },
+    {
+        "title": "Un Lugar Tranquilo",
+        "rating": 4.7,
+        "tags": ["suspenso", "terror", "emocionante"],
+        "director": "John Krasinski"
+    },
+    {
+        "title": "Operación Fantasma",
+        "rating": 4.3,
+        "tags": ["accion", "espionaje", "intenso"],
+        "director": "Paul Greengrass"
+    },
+    {
+        "title": "El Último Refugio",
+        "rating": 4.9,
+        "tags": ["drama", "aventura", "emocionante"],
+        "director": "Alfonso Cuarón"
+    }
+]
